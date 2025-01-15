@@ -1,3 +1,6 @@
+
+![Pictogram](https://github.com/user-attachments/assets/fd7d9006-0979-49ad-b08c-70f12364fb8e)
+
 # Pictogram Animation
 
 A lightweight, customizable CSS animation system for pictograms with sparkle and dot effects. This project provides smooth, scalable animations for pictogram elements with configurable sparkles and dots positioned around the main image.
