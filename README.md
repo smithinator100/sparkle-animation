@@ -1,5 +1,6 @@
 
-![Pictogram](https://github.com/user-attachments/assets/fd7d9006-0979-49ad-b08c-70f12364fb8e)
+https://github.com/user-attachments/assets/7e13c70f-ac39-4395-8f76-99750fb8a0a2
+
 
 # Pictogram Animation
 
