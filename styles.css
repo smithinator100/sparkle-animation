@@ -1,0 +1,22 @@
+.sparkle-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.sparkle-clip {
+  width: 120px;
+  height: 120px;
+  clip-path: path('M9.428 48l23.143-6c4.286-.857 8.572-5.143 9.43-9.429L47.999 9.43C49.714 3.429 54.857 0 60 0c6 0 11.143 4.286 12 9.429L78 32.57c.857 4.286 5.143 8.572 9.429 9.429L110.572 48c6 1.714 9.428 6.857 9.428 12 0 6-4.286 11.143-9.428 12L87.429 78c-4.286.857-8.572 5.143-9.429 9.429L72 110.571c-1.714 6-6.857 9.429-12 9.429-6 0-11.143-4.286-12-9.429L42 87.429c-.857-4.286-5.143-8.572-9.429-9.429L9.428 72C3.428 70.286 0 65.143 0 60c0-6 4.286-11.143 9.428-12z');
+  background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+} 
